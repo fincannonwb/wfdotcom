@@ -1,0 +1,112 @@
+.IMG_0108_thumb, .cat_climb500x500_thumb, .doorway1_thumb, .spincase_to_noshade_final1_thumb, .book_test1_thumb, .sketch2a_cropped_thumb, .sketch1a_thumb, .fogtown1_thumb, .fogtown2_thumb, .fogtown3_thumb, .fogtown4_thumb, .fogtown5_thumb, .fogtown6_thumb, .coffee_cave_color_thumb, .deer_boss_thumb, .mt_wtf_tgo_thumb, .fireplace_thumb, .theghostof_bw_thumb{
+	background: url(sprites.png) no-repeat;
+}
+
+.IMG_0108_thumb{
+	background-position: 0 0;
+	width: 500px;
+	height: 500px;
+}
+
+.cat_climb500x500_thumb{
+	background-position: -500px 0;
+	width: 500px;
+	height: 500px;
+}
+
+.doorway1_thumb{
+	background-position: -1000px 0;
+	width: 500px;
+	height: 500px;
+}
+
+.spincase_to_noshade_final1_thumb{
+	background-position: -1500px 0;
+	width: 500px;
+	height: 500px;
+}
+
+.book_test1_thumb{
+	background-position: 0 -500px ;
+	width: 500px;
+	height: 500px;
+}
+
+.sketch2a_cropped_thumb{
+	background-position: -500px -500px ;
+	width: 500px;
+	height: 500px;
+}
+
+.sketch1a_thumb{
+	background-position: -1000px -500px ;
+	width: 500px;
+	height: 500px;
+}
+
+.fogtown1_thumb{
+	background-position: -1500px -500px ;
+	width: 500px;
+	height: 500px;
+}
+
+.fogtown2_thumb{
+	background-position: 0 -1000px ;
+	width: 500px;
+	height: 500px;
+}
+
+.fogtown3_thumb{
+	background-position: -500px -1000px ;
+	width: 500px;
+	height: 500px;
+}
+
+.fogtown4_thumb{
+	background-position: -1000px -1000px ;
+	width: 500px;
+	height: 500px;
+}
+
+.fogtown5_thumb{
+	background-position: -1500px -1000px ;
+	width: 500px;
+	height: 500px;
+}
+
+.fogtown6_thumb{
+	background-position: 0 -1500px ;
+	width: 500px;
+	height: 500px;
+}
+
+.coffee_cave_color_thumb{
+	background-position: -500px -1500px ;
+	width: 500px;
+	height: 500px;
+}
+
+.deer_boss_thumb{
+	background-position: -1000px -1500px ;
+	width: 500px;
+	height: 500px;
+}
+
+.mt_wtf_tgo_thumb{
+	background-position: -1500px -1500px ;
+	width: 500px;
+	height: 500px;
+}
+
+.fireplace_thumb{
+	background-position: 0 -2000px ;
+	width: 500px;
+	height: 500px;
+}
+
+.theghostof_bw_thumb{
+	background-position: -500px -2000px ;
+	width: 500px;
+	height: 500px;
+}
+
