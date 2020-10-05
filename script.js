@@ -1,11 +1,6 @@
 $(document).ready(function(){
   "use strict";
 	
-$("#logo").click(function(){
-	$(this).toggleClass("rotate");
-	$("#nav").toggleClass("collapse").toggleClass("expand");
-});	
-	
 $(".thumb").click(function(){
 	$("#shadowBox").fadeToggle("display");
 	$("#fullsize").fadeToggle("display");
@@ -18,4 +13,4 @@ $("#shadowBox").click(function(){
 	$("#fullsize").fadeToggle("display");
 });
 	
-});
+});// JavaScript Document
